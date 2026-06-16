@@ -1,0 +1,25 @@
+h1 {
+    /* add styles here */color :blue;
+}
+#heading-2{
+    color :orange;
+}
+.heading {
+    color :pink;
+}
+#para {
+    border:2px;
+    border-style:solid;
+    border-color:black;
+    padding :20px;
+}
+#navbar{
+    border: 3px solid black;
+    padding: 15px;
+    background-color: lightgray;
+}
+#navbar a:hover {
+    padding:10px;
+    text-decoration:none;
+    background-color:rgba(0, 0, 0, 0.1);
+}
